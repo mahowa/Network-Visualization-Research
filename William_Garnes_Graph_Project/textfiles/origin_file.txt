@@ -1,0 +1,10 @@
+number: 0 size:1 position: (0,0) neighbors: (9,1) made of: 0 
+number: 1 size:1 position: (0,1) neighbors: (3,1) (7,1) (6,1) made of: 1 
+number: 2 size:1 position: (0,2) neighbors: (6,1) made of: 2 
+number: 3 size:1 position: (1,0) neighbors: (1,1) made of: 3 
+number: 4 size:1 position: (1,1) neighbors: (5,1) made of: 4 
+number: 5 size:1 position: (1,2) neighbors: (9,1) (4,1) (7,1) made of: 5 
+number: 6 size:1 position: (3,0) neighbors: (2,1) (1,1) made of: 6 
+number: 7 size:1 position: (3,1) neighbors: (1,1) (5,1) made of: 7 
+number: 8 size:1 position: (3,2) neighbors: (9,1) made of: 8 
+number: 9 size:1 position: (3,3) neighbors: (8,1) (0,1) (5,1) made of: 9 

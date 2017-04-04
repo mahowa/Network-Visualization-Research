@@ -1,0 +1,1 @@
+/usr/bin/c++     -fstack-protector -O3 -DNDEBUG     -Wl,-Bsymbolic-functions  -Wl,-z,relro CMakeFiles/full_to_sparse_distance_matrix.dir/src/full_to_sparse_distance_matrix.cpp.o  -o full_to_sparse_distance_matrix -rdynamic -lmpichcxx -lmpich -lopa -lmpl -lrt -lcr -lpthread 

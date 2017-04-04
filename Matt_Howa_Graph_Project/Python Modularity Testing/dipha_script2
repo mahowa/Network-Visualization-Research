@@ -1,0 +1,2 @@
+#!/bin/bash  
+dipha/dipha --upper_dim 2 dipha/Test/distances2.bin dipha/Test/diag2.bin

@@ -1,0 +1,1 @@
+/usr/bin/c++     -fstack-protector -O3 -DNDEBUG     -Wl,-Bsymbolic-functions  -Wl,-z,relro CMakeFiles/dipha.dir/src/dipha.cpp.o  -o dipha -rdynamic -lmpichcxx -lmpich -lopa -lmpl -lrt -lcr -lpthread 
